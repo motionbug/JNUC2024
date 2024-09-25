@@ -26,4 +26,6 @@ If you haven't yet implemented a LAPS solution in your environment, Jamf Pro LAP
 ### 🔗 Links
 - [Technical Paper: Local Administrator Password Solution for Jamf Pro](https://learn.jamf.com/en-US/bundle/technical-paper-laps-current/page/Local_Administrator_Password_Solution.html)
 - [Re-enroll computers for LAPS.zsh](https://jamf.it/laps-re-enroll)
+- [A Jamf Pro extension attribute to return whether a user account (hidden or visible) in a list of user accounts exists on a computer.
+](https://gist.github.com/talkingmoose/4a2b613bf5273081459bc62c644193eb)
 - JNUC 2023 LAPS Presentation - [The Good, the Bad, the ugly of local admin management](https://github.com/motionbug/jnuc-2023-laps/blob/main/README.md)
