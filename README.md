@@ -1,7 +1,7 @@
 ![JNUC](https://github.com/motionbug/JNUC2024/blob/master/img/jnucheader.jpg?raw=true)
 # Break Glass: How to Securely Administer Computers Using Jamf Pro LAPS
 
-## 📢 Speakers: William Smith, Mark Buffington, and Rob Potvin
+## 📢 Speakers: Mark Buffington, Rob Potvin and William Smith
 
 ### 🗒️ Session Description:
 
